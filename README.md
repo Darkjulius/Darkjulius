@@ -3,8 +3,6 @@ Bonjour,
 Je m'appelle Brice THIBAULT.
 Je suis en devenir un Développeur Web en alternance et je m'oriente vers le Front-End. J'adore le Développement Web car cela me permet de construire et de mettre en avant ma créativité..
 
-<a href="https://www.linkedin.com/in/bricethibault/" rel="nofollow"><img src="https://camo.githubusercontent.com/1204decb3ec6e14e461f7738519cfd00508f88d25133692c28fb10ffd612e807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616e6972756468656d6d6164692d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e6972756468656d6d6164692f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-bricethibault-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/bricethibault/" style="max-width: 100%;"></a>
-
 Skills
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
