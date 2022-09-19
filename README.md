@@ -1,12 +1,17 @@
 Bonjour,
 
 Je m'appelle Brice THIBAULT.
-Je suis en devenir un Développeur Web en alternance et je m'oriente vers le Front-End. J'adore le Développement Web car cela me permet de construire et de mettre en avant ma créativité..
+Je suis à la recherche d'un poste de travail dans le domaine du développement web.
+J'ai acquis mes compétences durant mes formations prép'fullstack et Développeur Web (effectué en alternance).
 
-<a href="https://www.linkedin.com/in/bricethibault/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/8b9dd2810a23cfd017e56fa405a2fd97bebfa76ff2946cd959802e3cc773632d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+Formation prep'fullstack:
+Adapter un thème Wordpress, coder la structure d’une page en HTML5, modéliser une base de données, recueillir la saisie d’un formulaire utilisateur en langage PHP.
 
+Formation Développeur Web:
+Transformer une maquette en site web avec HTML & CSS, Dynamiser une page web avec des animations CSS (Saas), Optimiser un site web existant (SEO, Lighthouse), Construire un site e-commerce en JavaScript, Construire une API Sécurisée (Node.js, Express, MongoDB), Construire un réseau social d'entreprise (Node.js, Express, SQL, Vue 3).
+
+__Social__:<br>
 <a href="https://www.linkedin.com/in/bricethibault/" rel="nofollow">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 
 __Formations__:<br>
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)<br>
