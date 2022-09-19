@@ -4,10 +4,10 @@ Je m'appelle __Brice THIBAULT__.
 Je suis à la recherche d'un poste de travail dans le domaine du __développement web__.
 J'ai acquis mes __compétences__ durant __mes formations prép'fullstack et Développeur Web (effectué en alternance)__.
 
-__Formation prep'fullstack__:
+__Formation prep'fullstack__:<br>
 Adapter un thème Wordpress, coder la structure d’une page en HTML5, modéliser une base de données, recueillir la saisie d’un formulaire utilisateur en langage PHP.
 
-__Formation Développeur Web__:
+__Formation Développeur Web__:<br>
 Transformer une maquette en site web avec HTML & CSS, Dynamiser une page web avec des animations CSS (Saas), Optimiser un site web existant (SEO, Lighthouse), Construire un site e-commerce en JavaScript, Construire une API Sécurisée (Node.js, Express, MongoDB), Construire un réseau social d'entreprise (Node.js, Express, SQL, Vue 3).
 
 __Social__:<br>
